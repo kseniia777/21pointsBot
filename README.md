@@ -1,7 +1,7 @@
 
 # ![](https://github.com/kseniia777/21pointsBot/blob/master/21logo.png) **21pointsBot**
 ### 21pointsBot is a Telegram bot in which the user can play the game "21 points".
-##### **The goal of the game** is to score a total of 21 points.
+#### **The goal of the game** is to score a total of 21 points.
 Cards J, D, K - give 2, 3, 4 points, respectively;
 A - 11 points;
 6, 7, 8, 9, 10 - give the number of points equal to the rank.
