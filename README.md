@@ -13,4 +13,4 @@ Press the button on the keyboard with the text "Играть в очко", and t
 After that press "Хватит", the bot will draw cards for itself and give the result of the game.
 # ![](https://github.com/kseniia777/21pointsBot/blob/master/screen21.png) 
 
-##### You can test the bot in telegram: @Points21Bot
+### You can test the bot in telegram: ***@Points21Bot***
