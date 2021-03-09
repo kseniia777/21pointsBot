@@ -11,6 +11,6 @@ The player's task is to be closer to 21 points than a bot. And don't get more th
 First you need to press the /start command. Further for the game, the user must use the keyboard and buttons. 
 Press the button on the keyboard with the text "Играть в очко", and then press the button "Беру карту" until you get the desired number of points. 
 After that press "Хватит", the bot will draw cards for itself and give the result of the game.
-# ![](https://github.com/kseniia777/21pointsBot/blob/master/screen21.png) 
+# <img src="https://github.com/kseniia777/21pointsBot/blob/master/21ex.png" alt="Image 1" width="400" height="606" />
 
 ### You can test the bot in telegram: ***@Points21Bot***
